@@ -38,3 +38,4 @@ Each solution is organized by **problem ID** and **name**, with quick links to t
 | 2167_A | Square? | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2167/A_2167.java) |
 | 2167_B | Your Name | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2167/B_2167.java) |
 | 2167_C | Isamatdin and His Magic Wand! | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2167/C_2167.java) |
+| 2171_A | Shizuku Hoshikawa and Farm Legs | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2171/A_2171.java) |
